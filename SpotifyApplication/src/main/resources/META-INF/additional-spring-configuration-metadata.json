@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "authconfigs.redirectURI",
+    "type": "java.lang.String",
+    "description": "http://localhost:8080/mainpage/response"
+  },
+  {
+    "name": "authconfigs.scope",
+    "type": "java.lang.String",
+    "description": "A description for 'authconfigs.scope'"
+  },
+  {
+    "name": "authconfigs.redirectURI",
+    "type": "java.lang.String",
+    "description": "A description for 'authconfigs.redirectURI'"
+  },
+  {
+    "name": "authconfigs.clientSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'authconfigs.clientSecret'"
+  },
+  {
+    "name": "authconfigs.clientId",
+    "type": "java.lang.String",
+    "description": "A description for 'authconfigs.clientId'"
+  },
+  {
+    "name": "authconfigs.tokenUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'authconfigs.tokenUrl'"
+  }
+]}
